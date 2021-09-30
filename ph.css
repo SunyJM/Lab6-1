@@ -1,3 +1,30 @@
 body{
-  background-color: grey
+  background-color: grey;
+}
+h1{
+  background-color: lightgrey;
+}
+.fourteen{
+  background-color: #0099ff;
+}
+.thirteen{
+  background-color: #33adff;
+}
+.twelve{
+  background-color: #4db8ff;
+}
+.eleven{
+  background-color: #66c2ff;
+}
+.ten{
+  background-color: #80ccff;
+}
+.nine{
+  background-color: #99d6ff
+}
+.eight{
+  background-color: #b3e0ff;
+}
+.seven{
+  background-color: #00cc66;
 }
